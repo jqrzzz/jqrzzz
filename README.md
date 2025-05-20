@@ -27,3 +27,30 @@
 [🌐 tourist-sos.com](https://tourist-sos.com)  
 
 ---
+---
+
+<div align="center">
+  <!-- 🌈 Animated Gradient Banner -->
+  <svg width="100%" height="150" preserveAspectRatio="none"
+       xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#ff6ec4">
+          <animate attributeName="stop-color"
+                   values="#ff6ec4;#7873f5;#4ade80;#ff6ec4"
+                   dur="8s" repeatCount="indefinite"/>
+        </stop>
+        <stop offset="100%" stop-color="#7873f5">
+          <animate attributeName="stop-color"
+                   values="#7873f5;#4ade80;#ff6ec4;#7873f5"
+                   dur="8s" repeatCount="indefinite"/>
+        </stop>
+      </linearGradient>
+    </defs>
+    <rect width="100%" height="150" fill="url(#grad)" />
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+          font-family="sans-serif" font-size="32" fill="#fff" opacity="0.8">
+      🌍 Tourist SOS – Healing in Motion 🚑
+    </text>
+  </svg>
+</div>
