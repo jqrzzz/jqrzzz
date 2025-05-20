@@ -1,16 +1,33 @@
-## Hi there 👋
+<p align="center">
+  <img width="200" src="https://raw.githubusercontent.com/your-username/your-username/master/profile-header.svg" alt="Header"/>
+</p>
 
-<!--
-**jqrzzz/jqrzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I’m Juan 👋</h1>
+<p align="center">
+  <em>Founder @ Tourist SOS | Future PhD in Global Health Systems</em>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏥 About Me
+- 🚑 **Tourist SOS LLC** – Vertical Ai can better tourist patient outcomes.
+- 🌍 I like emergency healthcare logistics & Muay Thai.
+- 🎓 Phd in Singapore soon. 
+- ☕ Hot expresso, soda water, strong wifi, AC, outlet and a view.  
+
+---
+
+## 💡 What I’m Working On
+- **MedTech** Tourist Patient Ecosystem that incorporates AI and current operational infrastructure. 
+- **Thought Leadership**: writing & speaking on remote emergency logistics. 
+
+---
+
+## 📫 Connect
+[🌐 tourist-sos.com](https://tourist-sos.com)  
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="Juan’s GitHub Stats" />
+</p>
