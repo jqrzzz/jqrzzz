@@ -29,5 +29,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="Juan’s GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?jqrzzz&show_icons=true&theme=tokyonight" alt="Juan’s GitHub Stats" />
 </p>
