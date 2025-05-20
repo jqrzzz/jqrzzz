@@ -50,7 +50,7 @@
     <rect width="100%" height="150" fill="url(#grad)" />
     <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
           font-family="sans-serif" font-size="32" fill="#fff" opacity="0.8">
-      🌍 Tourist SOS – Healing in Motion 🚑
+      🌍 Tourist SOS – Together Agaisnt Tourist Truama🚑
     </text>
   </svg>
 </div>
